@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32195305495",
+    "firebase_url": "https://pournami-8d253.firebaseio.com",
+    "project_id": "pournami-8d253",
+    "storage_bucket": "pournami-8d253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32195305495:android:eed8921b7b69c8bccf7c52",
+        "android_client_info": {
+          "package_name": "com.aswathigr.aca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32195305495-4imlhqqe6ir2caf5t3kkmf3npj2h3c7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswathigr.aca",
+            "certificate_hash": "35737ed265a9e74db96b9335bf6a0d9d17a68acb"
+          }
+        },
+        {
+          "client_id": "32195305495-e6b7b483l1hjer03cubbiap24vthtgp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5LOhJWd3CsT6zF9H6dywkwKQvvXaBKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32195305495-e6b7b483l1hjer03cubbiap24vthtgp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

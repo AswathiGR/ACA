@@ -10,7 +10,7 @@ namespace ACA
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ACA.Chalavara.Authentication.views.Button();
         }
 
         protected override void OnStart()

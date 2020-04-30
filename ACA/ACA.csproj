@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -18,6 +18,11 @@
   <ItemGroup>
     <Folder Include="Anjana\" />
     <Folder Include="Aysha\" />
-    <Folder Include="Chalavara\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Chalavara\Authentication\views\Button.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
