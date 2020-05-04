@@ -30,7 +30,7 @@ namespace ACA.Droid.Interfaces
             Instance = this;
             GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DefaultSignIn)
                                                              .RequestEmail()
-                                                             .RequestIdToken("1041337962968-79cpkpm7um9andvp6s3gc8d9kj68pl98.apps.googleusercontent.com")
+                                                             .RequestIdToken("32195305495-e6b7b483l1hjer03cubbiap24vthtgp7.apps.googleusercontent.com")
                                                              .Build();
 
             _googleApiClient = new GoogleApiClient.Builder(((MainActivity)Forms.Context).ApplicationContext)
